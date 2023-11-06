@@ -138,3 +138,15 @@ padding:0rem 0.5rem;
 .ow {
     background-color:var(--offwhite);
 }
+
+/** footer **/
+
+footer {
+    background-color: var(--primary-color);
+    padding:2rem 1rem;
+    text-align: center;
+}
+
+.footer .link{
+    color:white;
+}
